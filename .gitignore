@@ -1,0 +1,13 @@
+# 临时文件和目录
+db/
+incremental_db/
+*.bak
+*.tmp
+*.log
+*.jou
+*.debug
+
+# 用户特定文件（不应共享）
+*.qws.user
+*.qpf.user
+*.qsf.user
